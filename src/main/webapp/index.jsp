@@ -827,7 +827,7 @@
     <section class="hero">
         <div class="hero-content">
 
-            <h1>summer Collection 2025</h1>
+            <h1>sravanam Collection 2025</h1>
 
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
