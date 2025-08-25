@@ -803,8 +803,8 @@
                         </div>
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
-                    <li><a href="#"><i class="fas fa-percent"></i> Deals</a></li>
-                    <li><a href="#"><i class="fas fa-info-circle"></i> About</a></li>
+                    <li><a href="#"><em class="fas fa-percent"></em> Deals</a></li>
+                    <li><a href="#"><em class="fas fa-info-circle"></em> About</a></li>
                     <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
                 </ul>
             </nav>
@@ -827,7 +827,9 @@
     <section class="hero">
         <div class="hero-content">
 
-            <h1>sravanam Collection 2025</h1>
+
+            <h1>rainy Collection 2025</h1>
+
 
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
